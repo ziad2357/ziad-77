@@ -1,0 +1,34 @@
+@media(max-width:600px){
+
+.container {
+
+padding:0 30px;}
+
+.categories-grid{
+
+display: grid;
+
+grid-template-columns:auto auto;}
+
+.category-card img {height: 100px;}
+
+.category-body {padding: 10px;}
+
+.btn {padding: 5px 10px;}
+
+
+.products-items{
+
+grid-template-columns: 60%;}
+
+.product-item {
+
+grid-template-columns: 100%;}
+
+.product-item img {width: 100%;
+}
+
+
+.product-details-body{
+    
+grid-template-columns:100%;}
